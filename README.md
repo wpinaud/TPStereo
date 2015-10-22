@@ -23,14 +23,27 @@ une ligne verticale, une ligne horizontale ou une image
 ###MESURES ET CALCULS PRÉLIMINAIRES
 
 1. La distance ds entre vos yeux et l’écran
-$dyeux = 69 cm$
+dyeux = 69 cm
 
 2. Calculer votre champ visuel horizontal FOVh par rapport à l’écran
-
+écran
+|
+|
+|<---------------------- (yeux)
+|
+|
+|
+Donc l'angle est de:
+___ FOVh = 2*arctan(L(écran)/(2*dyeux)) = 0.82 rad = 47 degrés ___
 
 3. Calculer la taille s d’un pixel à l’écran en minutes d’angle
+Il y a 1920 pixels sur une ligne horisontale de l'écran. 
+___ s = (47/1920)*60 = 1.47 minutes d'angle. ___
 
-Tracez les courbes $FOVh(ds)$ et $s(ds)$ en faisant bien apparaître $ds
+4.Tracez les courbes *FOVh(ds)* et *s(ds)* en faisant bien apparaître *ds*
+
+![](CourbeFOVh.jpg)
+
 
 ###PARALLAXE
 
