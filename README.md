@@ -38,7 +38,8 @@ une ligne verticale, une ligne horizontale ou une image
 ```
 
 Donc l'angle est de:
-![](https://latex.codecogs.com/gif.latex?FOVh%20%3D%202*%5Carctan%20%28%5Cfrac%7BL%28ecran%29%7D%7B2*ds%7D%29%20%3D%200.82%20rad%20%3D%2047%20degr%E9s)
+
+![](https://latex.codecogs.com/png.latex?%5Cinline%20%5CLARGE%20FOVh%20%3D%202*%5Carctan%20%28%5Cfrac%7BL%28ecran%29%7D%7B2*ds%7D%29%20%3D%200.82%20rad%20%3D%2047%20degr%E9s)
 
 3. Calculer la taille s d’un pixel à l’écran en minutes d’angle
 Il y a 1920 pixels sur une ligne horisontale de l'écran. 
