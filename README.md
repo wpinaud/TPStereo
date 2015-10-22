@@ -34,11 +34,11 @@ dyeux = 69 cm
 |
 |
 Donc l'angle est de:
-___ FOVh = 2*arctan(L(écran)/(2*dyeux)) = 0.82 rad = 47 degrés ___
+```FOVh = 2*arctan(L(écran)/(2*dyeux)) = 0.82 rad = 47 degrés```
 
 3. Calculer la taille s d’un pixel à l’écran en minutes d’angle
 Il y a 1920 pixels sur une ligne horisontale de l'écran. 
-___ s = (47/1920)*60 = 1.47 minutes d'angle. ___
+```s = (47/1920)*60 = 1.47 minutes d'angle.```
 
 4.Tracez les courbes *FOVh(ds)* et *s(ds)* en faisant bien apparaître *ds*
 
