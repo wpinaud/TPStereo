@@ -54,9 +54,12 @@ La courbe est logiquement décroissante, car quand on s'éloigne de l'écran, il pa
 ###PARALLAXE
 
 Établissez les équations qui relient la parallaxe à l’écran (dx et dy ) à la disparité rétinienne
-exprimée sous forme angulaire.
+exprimée sous forme angulaire. 
+Avec: 
+![](https://latex.codecogs.com/png.latex?%5Cinline%20%5CLARGE%20dz%20%3D%20%5Csqrt%7Bdx%5E2%20&plus;%20dy%5E2%7D)
+On obtient: 
 
-![](https://latex.codecogs.com/png.latex?%5Cinline%20%5CLARGE%20ds%20%3D%20%5Csqrt%7Bdx%5E2&plus;dy%5E2%7D)
+Disparité Rétiniène = ![](https://latex.codecogs.com/png.latex?%5Cinline%20%5CLARGE%202*%5Carctan%20%28%5Cfrac%7Bdz%7D%7B2*ds%7D%29)
 
 ####Mesures
 
