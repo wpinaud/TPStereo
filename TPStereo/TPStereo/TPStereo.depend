@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1385320478 source:z:\tpstereo\tpstereo\tpstereo\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1273523546 c:\users\eleve\downloads\3rdparty_vs2012.3_v110_x86_x64_v8b_full\3rdparty_x86_x64\x86\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
