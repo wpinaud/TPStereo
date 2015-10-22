@@ -26,6 +26,7 @@ une ligne verticale, une ligne horizontale ou une image
 dyeux = 69 cm
 
 2. Calculer votre champ visuel horizontal FOVh par rapport à l’écran
+```
 écran
 |
 |
@@ -33,6 +34,8 @@ dyeux = 69 cm
 |
 |
 |
+```
+
 Donc l'angle est de:
 ```FOVh = 2*arctan(L(écran)/(2*dyeux)) = 0.82 rad = 47 degrés```
 
