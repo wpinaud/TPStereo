@@ -23,7 +23,8 @@ une ligne verticale, une ligne horizontale ou une image
 ###MESURES ET CALCULS PRÉLIMINAIRES
 
 1. La distance ds entre vos yeux et l’écran
-dyeux = 69 cm
+
+```dyeux = 69 cm```
 
 2. Calculer votre champ visuel horizontal FOVh par rapport à l’écran
 ```
@@ -47,11 +48,14 @@ Il y a 1920 pixels sur une ligne horisontale de l'écran.
 
 ![](CourbeFOVh.jpg)
 
+Ce qui m'étonne avec cette courbe, c'est qu'elle est croissante, alors que j'aurais tendance à penser que quand la distande à l'écran augmente, l'angle de vue diminue, non? 
 
 ###PARALLAXE
 
 Établissez les équations qui relient la parallaxe à l’écran (dx et dy ) à la disparité rétinienne
 exprimée sous forme angulaire.
+
+
 
 ####Mesures
 
