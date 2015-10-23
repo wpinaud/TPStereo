@@ -30,7 +30,7 @@ Et voici le resultat:
 
 1. La distance ds entre vos yeux et l’écran
 
-```dyeux = 69 cm```
+```ds = 69 cm```
 
 2. Calculer votre champ visuel horizontal FOVh par rapport à l’écran
 ```
@@ -51,6 +51,7 @@ avec: L(ecran) = 60 cm et ds = 69 cm
 
 3. Calculer la taille s d’un pixel à l’écran en minutes d’angle
 Il y a 1920 pixels sur une ligne horisontale de l'écran. 
+
 ```s = (47/1920)*60 = 1.47 minutes d'angle.```
 
 4.Tracez les courbes *FOVh(ds)* et *s(ds)* en faisant bien apparaître *ds*
