@@ -47,6 +47,8 @@ Donc l'angle est de:
 
 ![](https://latex.codecogs.com/png.latex?%5Cinline%20%5CLARGE%20FOVh%20%3D%202*%5Carctan%20%28%5Cfrac%7BL%28ecran%29%7D%7B2*ds%7D%29%20%3D%200.82%20rad%20%3D%2047%20degr%E9s)
 
+avec: L(ecran) = 60 cm et ds = 69 cm
+
 3. Calculer la taille s d’un pixel à l’écran en minutes d’angle
 Il y a 1920 pixels sur une ligne horisontale de l'écran. 
 ```s = (47/1920)*60 = 1.47 minutes d'angle.```
